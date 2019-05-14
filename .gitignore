@@ -65,3 +65,4 @@ typings/
 .settings/
 .project
 config/bot.json
+config.json
