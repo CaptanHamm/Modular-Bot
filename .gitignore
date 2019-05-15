@@ -61,8 +61,9 @@ typings/
 # and it will be ignored from being uploaded to github with this clause:
 */*.bak
 
-# andything you want to ignore from being uploaded to github goes under here.
+# anything you want to ignore from being uploaded to GitHub goes under here.
 .settings/
 .project
 config/bot.json
 config.json
+Audio/Jack/AUP/*

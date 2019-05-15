@@ -1,0 +1,46 @@
+{
+  "iconURL": "http://static.tumblr.com/a295b37dd192646fa1fd7fb66092af0f/djayg0e/04Ensfpqb/tumblr_static_6rqhssg0lxk4kwoko40cs8ws8.png",
+  "website": "https://borderlands.com/",
+  "characters": [
+    {
+      "name": "Jack",
+      "data": {
+        "name": "Jack",
+        "title": "Handsome Jack",
+        "audio": [
+          "C:/Github/Modular-Bot/Audio/Jack/babies1.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/BalloonTits.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/beltsander.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/bitch.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/buttStallion.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/buttStallionHello.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/Dicks.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/didntKYS.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/disemboweled.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/envy.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/haiku.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/handyRobot.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/idunno.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/KYS.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/KYS1.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/notLikeThis.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/pretzels.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/respawn1.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/respawn10.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/respawn11.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/respawn2.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/respawn3.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/respawn4.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/respawn6.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/respawn7.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/respawn8.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/respawn9.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/rolandJack.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/vandalism.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/violin.ogg",
+          "C:/Github/Modular-Bot/Audio/Jack/WHATSINTHEBOX.ogg"
+        ]
+      }
+    }
+  ]
+}
